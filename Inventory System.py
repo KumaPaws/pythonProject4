@@ -3,6 +3,18 @@ def main():
     print("What would you like to do?\n")
     print("1. ADD\n2. DELETE\n3. VIEW\n4. UPDATE\n5. EXIT")
 
+
+
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
+    print("NIGGER NIGGER NIGGER NIGGER")
     choice = input("Choose an option (1-5): ")
 
     if choice == "1":
