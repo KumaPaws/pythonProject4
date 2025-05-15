@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Nature Spring",
+        "Price": 10,
+        "Quantity": 30
+    },
+    {
+        "Name": "Mountain Dew plastic",
+        "Price": 25,
+        "Quantity": 30
+    },
+    {
+        "Name": "Nescafe Black",
+        "Price": 14,
+        "Quantity": 30
+    },
+    {
+        "Name": "Cobra",
+        "Price": 25,
+        "Quantity": 30
+    }
+]

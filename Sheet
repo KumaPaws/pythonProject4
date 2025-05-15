@@ -1,0 +1,15 @@
+Good Day for our asynchronous class please answer the following problems:
+
+1. Create a program that will accept a decimal (base 10)
+number. Convert the number
+to binary (base 2) using manual conversion (do not use built in function).
+
+2. Create a program that will accept a
+hexadecimal (base 16) number.
+Convert the number to Decimal (base 10) using
+manual conversion (do not use built in function).
+Note: Study the conversion process, implement it in coding.
+
+You are required to use function
+The use of module is optional.
+This is equivalent to 100 points activity. 50 points each.
